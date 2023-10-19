@@ -174,5 +174,35 @@ img {
         margin-bottom: 4rem;
     }
 
+    /*second section - online*/
+
+    main .steps .container h2{
+        font-size: 40px;
+    }
+
+    main .steps .container .row{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .steps .col{
+        width: 100%;
+    }
+
+    main .steps .container .row .col .card h3{
+        font-size: 30px;
+    }
+
+    main .steps .container .row .col .card p{
+        font-size: 20px;
+        margin-bottom: 4rem;
+    }
+
+    .steps .col img{
+        height: 250px;
+    }
+
+    /*third section - Perchè Boolean Academy*/
+
 
  }
